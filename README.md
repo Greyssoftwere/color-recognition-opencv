@@ -22,9 +22,8 @@ This project is a real-time color recognition system developed using Python and 
 
 1. Install the required libraries:
 
-```bash
-pip install -r requirements.txt
-```
+opencv-python +
+numpy
 
 2. Run the program:
 
